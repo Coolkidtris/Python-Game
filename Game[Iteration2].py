@@ -470,4 +470,6 @@ inventory.append(wooden_sword.name)
 
 GameMenu() # puts the player in the menu!
 
+print("Testing 1")
+
 #Fight(goblin.health, goblin.damage, goblin.stamina, goblin.name)
